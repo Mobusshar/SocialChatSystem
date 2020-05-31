@@ -1,0 +1,48 @@
+#main{
+    height: 443px;
+    background-color: white;
+    margin-top: 50px;
+
+}
+
+.output{
+    background-color: white;
+    box-shadow: 4px 4px 4px #000;
+    height: 550px;
+    margin-bottom: 40px;
+    overflow: scroll;
+}
+
+ul{
+
+list-style: none;
+
+}
+
+input[type= submit]{
+
+width: 100px;
+box-sizing: border-box;
+border: 4px solid #6495ed;
+border-radius: 4px;
+}
+
+textarea{
+background-color: #dcdcdc;
+width: 350px;
+
+}
+
+body {
+background-color: #dc143c;
+
+}
+.fileupload{
+
+
+
+    margin-top: 200px;
+	margin-left: 400px;
+	margin-right: 1200px;
+
+}

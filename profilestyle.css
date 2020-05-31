@@ -1,0 +1,185 @@
+html,body{
+	padding: 0;
+	margin:0;
+	font-family: 'raleway';
+}
+
+.container{
+	width: 1000px ;
+	margin: 0 auto;	
+	
+}
+
+
+header{
+
+	background-color: #800000;
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	position: relative;
+	
+}
+header span{
+	
+	color: white;
+	display: inline-block;
+
+}
+
+header ul,li,a{
+	padding: 2 ; 
+	margin: 0 ;
+	display: inline-block;
+		
+}
+
+header ul{
+	float: right ; 
+	
+}
+header ul,li,a {
+	color: white;
+	text-decoration: none;
+	padding: 0 7px;
+}
+header ul,li,a{
+	
+	background : #273746;
+	transition: 0.5s ease;
+		
+}
+
+.transparent{
+	
+	background-image: linear-gradient(260deg,rgba(0,0,0,0.3)65%,rgba(0,0,0,0.6)40%),url(tnmback.jpeg);
+	background-size: cover;
+	background-attachment: fixed;
+	height: 90vh;
+	
+}
+.circleimage{
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;	
+	margin-left: 100px;
+	margin-top: -30px;
+}
+
+
+.icons{
+	
+	width: 50px;
+	height: 50px;
+	margin-top:30px;
+	margin-left:40px;
+	
+}
+.af{
+	
+	width: 50px;
+	height: 50px;
+	margin-top:-80px;
+	margin-left:150px;
+	
+}
+
+.name{
+	
+	width: 50px;
+	height: 50px;
+	margin-top:30px;
+	margin-left:220px;
+		
+}
+
+
+
+.all-upload{
+	width:500px;
+	margin:0 auto;
+		
+}
+
+.upload{
+	
+	padding:5px;
+	border:1px solid silver;
+	border-radius: 5px;
+	
+}
+
+.upload input{
+	padding: 2px;
+	
+}
+.upload textarea{
+	border-radius: 5px;
+	border: 1px solid silver:
+	
+	
+}
+.upload button{
+	padding:5px;
+	background: black;
+	border: 1px solid black;
+	border-radius: 5px;
+	color:white;
+		
+}
+.uploads{
+	
+	padding:150px;
+	border:10px solid silver;
+	border-radius: 2px;
+	margin-left:700px;
+	margin-top: -450px;
+
+	overflow-y: scroll; 
+     height: 350px;
+     
+	
+}
+
+
+.fix{
+	background: fixed;
+
+}
+
+.post8{
+	top: 290px;
+	left: 240px;
+	position: absolute;
+	background: url(green.jpg);
+	width: 580px;
+	height: 600px;
+	border-radius: 3px/3px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+}
+
+
+p6{
+	color: #1b6192;
+	font-family: verdana;
+	font-size: 10px;
+	word-spacing: 10px;
+}
+#commentprof2{
+	top: 560px;
+	left: 0px;
+	width: 30px;
+	height: 30px;
+}
+#commentboxpos2{
+	top: 560px;
+	left: 40px;
+	width: 540px;
+	height: 30px;
+}
+#commentbox{
+	width: 540px;
+	height: 20px;
+}

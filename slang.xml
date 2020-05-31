@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ex>
+  <exception>
+  <sln>
+    <type1>chagol</type1>
+    <type2>sagol</type2>
+    <type3>patha</type3>
+    <type4>kukur</type4>
+   </sln>
+  <sln>
+    <type1>pagol</type1>
+    <type2>pagli</type2>
+    <type3>pagla</type3>
+    <type4>pagi</type4>
+  </sln>
+  <sln><type1>tonmoy</type1><type2>tnmy</type2><type3>tonnmoy</type3><type4>tonmoyy</type4></sln></exception>
+</ex>
